@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d43ddd5c.chunk.css",
+    "main.js": "/static/js/main.0c6001a2.chunk.js",
+    "main.js.map": "/static/js/main.0c6001a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.efb0ffc4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.efb0ffc4.js.map",
+    "static/js/2.8dc7a1d5.chunk.js": "/static/js/2.8dc7a1d5.chunk.js",
+    "static/js/2.8dc7a1d5.chunk.js.map": "/static/js/2.8dc7a1d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d43ddd5c.chunk.css.map": "/static/css/main.d43ddd5c.chunk.css.map",
+    "static/js/2.8dc7a1d5.chunk.js.LICENSE.txt": "/static/js/2.8dc7a1d5.chunk.js.LICENSE.txt",
+    "static/media/Programms.css": "/static/media/balance.b2ab6473.jpg",
+    "static/media/WellnessInfo.css": "/static/media/work.37d58730.jpg",
+    "static/media/MissionHero.css": "/static/media/friends.d5a11899.jpg",
+    "static/media/Wellness.css": "/static/media/lifting.5e59709f.jpg",
+    "static/media/HeroComponent.css": "/static/media/machine.2e85e0cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efb0ffc4.js",
+    "static/js/2.8dc7a1d5.chunk.js",
+    "static/css/main.d43ddd5c.chunk.css",
+    "static/js/main.0c6001a2.chunk.js"
+  ]
+}
